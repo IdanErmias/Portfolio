@@ -244,7 +244,7 @@ export default function Home() {
         </section>
         <section>
           <h3 className="text-3xl mt-20 md:text-3xl text-center">
-            Let's stay in touch
+            Lets stay in touch
           </h3>
           <div className="text-center p-10 flex flex-col lg:gap-10 py-0 lg:flex-row lg:justify-center">
             <div className="shadow-xl p-10 rounded-xl my-10 dark:bg-gray-500 text-black">
