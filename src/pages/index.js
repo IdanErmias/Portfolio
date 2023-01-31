@@ -53,9 +53,9 @@ export default function Home() {
               Developer and Designer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl dark:text-white">
-              I am a Front End Developer & UX/UI Designer, I bring with me tools
+              I'm a Front End Developer & UX/UI Designer. I bring with me tools
               and knowledge of programming languages and building projects from
-              sketch. Likes to work in a team, very creative with a sharp eye
+              scratch.I like to work on a team. I am very creative with a sharp eye
               and attention to detail.
             </p>
           </div>
@@ -81,20 +81,20 @@ export default function Home() {
           <div className="text-center p-10" id="about">
             <h3 className="text-3xl md:pt-20 md:text-3xl">About me</h3>
             <p className="text-md py-10 leading-8 text-gray-800 md:text-xl dark:text-white">
-              I Born and raised in Ashdod, Israel. Since I remember myself I
-              always had a talent to build and design things. it started with my
-              ability to drew and build a Lego stractures as a kid. and
-              continued as an adult when I changed the whole design of my
-              parrents apartment. When you talk with me about design I am
-              <span className="text-cyan-600"> obsessed</span> with all the
-              attention to details. My natural talent is expressed and I care
+              I was born and raised in Ashdod, Israel. Since I can remember I
+              have had a talent to build and design things. It started with my
+              ability to draw and build a Lego structures as a kid. This
+              continued into adulthood when I changed the whole design of my
+              parent's apartment. When you talk with me about design I am
+              <span className="text-cyan-600"> excited</span> with all of the
+              attention to details. My natural talent is expressed here and I care
               about every cm of my work.
             </p>
           </div>
         </section>
         <section>
           <div className="text-center p-10" id="services">
-            <h3 className="text-3xl py-5 md:text-3xl">Services I offer</h3>
+            <h3 className="text-3xl py-5 md:text-3xl">Services I Offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 md:text-xl dark:text-white">
               After a year of studying programming, I realized that I connect
               more with design and started to explore and study UI/UX design in
@@ -307,7 +307,7 @@ export default function Home() {
           </div>
           <div>
             <small className="dark:text-white">
-              &copy; 2022 Idan-Ermias.Portfolio
+              &copy; 2023 Idan-Ermias.Portfolio
             </small>
           </div>
         </footer>
