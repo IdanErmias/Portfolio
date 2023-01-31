@@ -85,7 +85,7 @@ export default function Home() {
               have had a talent to build and design things. It started with my
               ability to draw and build a Lego structures as a kid. This
               continued into adulthood when I changed the whole design of my
-              parent's apartment. When you talk with me about design I am
+              parents apartment. When you talk with me about design I am
               <span className="text-cyan-600"> excited</span> with all of the
               attention to details. My natural talent is expressed here and I care
               about every cm of my work.
@@ -182,7 +182,7 @@ export default function Home() {
               />
               <a
                 href="https://github.com/IdanErmias/SA-ART-JEWELRY"
-                className="relative inline-flex items-center justify-center p-4 px-6 py-3 lg:mt-5 mx-5 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-cyan-600 rounded-full shadow-md group"
+                className="relative  sm::text-sm inline-flex items-center justify-center p-4 px-6 py-3 lg:mt-5 mx-5 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-cyan-600 rounded-full shadow-md group"
               >
                 <span class="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-cyan-600 group-hover:translate-x-0 ease">
                   <svg
@@ -250,7 +250,7 @@ export default function Home() {
             <div className="shadow-xl p-10 rounded-xl my-10 dark:bg-gray-500 text-black">
               <TfiEmail className="text-2xl text-red-700" />
               <h4 className="font-medium">Email</h4>
-              <h5>IdanErmias965478@Gmail.Com</h5>
+              <h5>IdanErmias@Gmail.Com</h5>
               <a
                 href="mailto:idanermias965478@gmail.com"
                 className="text-blue-500"
