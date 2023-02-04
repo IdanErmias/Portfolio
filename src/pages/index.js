@@ -53,7 +53,7 @@ export default function Home() {
               Developer and Designer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl dark:text-white">
-              I'm a Front End Developer & UX/UI Designer. I bring with me tools
+              Im a Front End Developer & UX/UI Designer. I bring with me tools
               and knowledge of programming languages and building projects from
               scratch.I like to work on a team. I am very creative with a sharp eye
               and attention to detail.
