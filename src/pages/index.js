@@ -37,7 +37,7 @@ export default function Home() {
           />
           <a
             className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
-            href="https://www.linkpicture.com/q/CVpic_1.png"
+            href="https://www.linkpicture.com/q/Screenshot-2023-02-04-at-17.52.33.png"
           >
             Download CV
           </a>
