@@ -39,7 +39,7 @@ export default function Home() {
             className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
             href="https://www.linkpicture.com/q/Screenshot-2023-02-04-at-17.52.33.png"
           >
-            Download CV
+            Open CV
           </a>
         </nav>
       </section>
@@ -118,11 +118,11 @@ export default function Home() {
               </p>
               <h4 className="py-4">Tools I Use:</h4>
               <div className="flex justify-around">
-                <div className="text-center font-semibold p-10 rounded-xl my-10">
+                <div className="text-center font-semibold p-5 rounded-xl my-10">
                   Figma
                   <SiFigma className="text-5xl" />
                 </div>
-                <div className="text-center font-semibold p-10 rounded-xl my-10">
+                <div className="text-center font-semibold p-5 rounded-xl my-10">
                   Miro
                   <SiMiro className="text-5xl" />
                 </div>
@@ -140,27 +140,27 @@ export default function Home() {
               </p>
               <h4 className="py-4">Tools I Use:</h4>
               <div className="lg:flex">
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   React
                   <SiReact className="text-5xl text-blue-900" />
                 </div>
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   JavaScript
                   <SiJavascript className="text-5xl text-yellow-400" />
                 </div>
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   HTML5
                   <SiHtml5 className="text-5xl text-orange-600" />
                 </div>
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   Sass
                   <SiSass className="text-5xl text-pink-700" />
                 </div>
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   Tailwind
                   <SiTailwindcss className="text-5xl text-blue-400" />
                 </div>
-                <div className="text-center font-semibold md:p-10 rounded-xl my-10">
+                <div className="text-center font-semibold md:p-5 rounded-xl my-10">
                   Bootstrap
                   <SiBootstrap className="text-5xl text-purple-900" />
                 </div>
