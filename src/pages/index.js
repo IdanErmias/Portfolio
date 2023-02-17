@@ -105,7 +105,7 @@ export default function Home() {
             </p>
           </div>
           <div></div>
-          <div className="lg:flex gap-10">
+          <div className="lg:flex justify-center gap-10">
             {/* DESIGN CARD */}
             <div className="text-center shadow-xl p-10 rounded-xl my-10 dark:bg-gray-500 text-black">
               <BsBrushFill className="text-3xl" />
